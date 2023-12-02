@@ -12,7 +12,7 @@
 
 # Face-and-mask-detection
 
-<#> Loaded face detection model from OpenCv and our trained model for mask detection
+<#> Loaded face detection model from OpenCV and our trained model for mask detection
 
 <#> Preprocessed the frames detected from live webcam
 
